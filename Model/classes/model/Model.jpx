@@ -6,11 +6,10 @@
   Name="Model"
   Version="12.1.2.66.68"
   SeparateXMLFiles="true"
-  PackageName="model">
+  PackageName="model"
+  ExportIntfPackage="">
   <DesignTime>
     <Attr Name="_jprName" Value="../../Model.jpr"/>
-    <Attr Name="_jbo.TypeMapEntries" Value="OracleApps"/>
-    <Attr Name="_NamedConnection" Value="Connection1"/>
     <Attr Name="_appModuleNames0" Value="model.AppModule"/>
   </DesignTime>
   <Containee

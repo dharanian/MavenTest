@@ -41,7 +41,7 @@
           </execution>
         </executions>
       </plugin>
-      <plugin>
+    <!--  <plugin>
         <groupId>com.oracle.adf.plugin</groupId>
         <artifactId>ojdeploy</artifactId>
         <version>12.1.2-0-0</version>
@@ -70,7 +70,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin> -->
     </plugins>
   </build>
   <dependencies>
